@@ -22,6 +22,8 @@ A simple 2-player console-based Tic-Tac-Toe game written in Dart.
 1. Clone the repo or download the source:
    
    git clone https://github.com/cd/tic_tac_toe_console.git
+   
    cd tic_tac_toe_console
+   
    dart tic_tac_toe.dart
 
